@@ -1,0 +1,522 @@
+{
+    "Pimpri Chinchwad Science Park": {
+      "TAG": "Monastery",
+      "RATING": "4.6",
+      "REVIEWS": "140",
+      "ADDRESS": "Vagamon, Kerala 686512",
+      "COORDINATES": {
+        "LATITUDE": "18.64038863839445",
+        "LONGITUDE": "76.8856486"
+      },
+      "TIME": 1.0,
+      "IMG_URL": "https://lh5.googleusercontent.com/p/AF1QipPoRwUw8dhz_DzhkPoe7XoyCAR-Fp_FrpfTdSY=w408-h306-k-no",
+      "DISTRICT": "Near PCMC",
+      "COST": 0.0
+    },
+    "Dinosaur Garden": {
+      "TAG": "Tourist attraction",
+      "RATING": "4.3",
+      "REVIEWS": "441",
+      "ADDRESS": "Kurisumala-Thankalpara-Road, Shivajinagar District, Vagamon, Kerala 685503",
+      "COORDINATES": {
+        "LATITUDE": "18.592418902616465",
+        "LONGITUDE": "73.81737946590441"
+      },
+      "TIME": 1.0,
+      "IMG_URL": "https://lh5.googleusercontent.com/p/AF1QipPogGFM1atIJ-FcuvUbPhDNkpLxgxGACbbI_br_=w408-h271-k-no",
+      "DISTRICT": "Near PCMC",
+      "COST": 0.0
+    },
+    "Varasgaon Dam": {
+      "TAG": "Dam",
+      "RATING": "4.6",
+      "REVIEWS": "140",
+      "ADDRESS": "9GQX+2X8, Lavasa, Palase, Maharashtra 412112",
+      "COORDINATES": {
+        "LATITUDE": "18.380430296844498",
+        "LONGITUDE": "73.52845898562266"
+      },
+      "TIME": 1.0,
+      "IMG_URL": "https://lh5.googleusercontent.com/p/AF1QipPoRwUw8dhz_DzhkPoe7XoyCAR-Fp_FrpfTdSY=w408-h306-k-no",
+      "DISTRICT": "Madhe Ghat side",
+      "COST": 0.0
+    },
+    "Zapurza Museum of Art & Culture": {
+      "TAG": "Tourist attraction",
+      "RATING": "4.3",
+      "REVIEWS": "441",
+      "ADDRESS": "Kurisumala-Thankalpara-Road, Shivajinagar District, Vagamon, Kerala 685503",
+      "COORDINATES": {
+        "LATITUDE": "18.417520458460586",
+        "LONGITUDE": "73.7371209649444"
+      },
+      "TIME": 1.0,
+      "IMG_URL": "https://lh5.googleusercontent.com/p/AF1QipPogGFM1atIJ-FcuvUbPhDNkpLxgxGACbbI_br_=w408-h271-k-no",
+      "DISTRICT": "Madhe Ghat side",
+      "COST": 0.0
+    },
+    "Butterfly Trampoline Park - Hinjawadi (Pune)": {
+      "TAG": "Park",
+      "RATING": "4.6",
+      "REVIEWS": "140",
+      "ADDRESS": "Vagamon, Kerala 686512",
+      "COORDINATES": {
+        "LATITUDE": "18.595908875612",
+        "LONGITUDE": "73.72657313796309"
+      },
+      "TIME": 1.0,
+      "IMG_URL": "https://lh5.googleusercontent.com/p/AF1QipPoRwUw8dhz_DzhkPoe7XoyCAR-Fp_FrpfTdSY=w408-h306-k-no",
+      "DISTRICT": "Near PCMC",
+      "COST": 0.0
+    },
+    "Nilkantheshwar Mandir": {
+      "TAG": "Tourist attraction",
+      "RATING": "4.3",
+      "REVIEWS": "441",
+      "ADDRESS": "Kurisumala-Thankalpara-Road, Shivajinagar District, Vagamon, Kerala 685503",
+      "COORDINATES": {
+        "LATITUDE": "18.401295377428454",
+        "LONGITUDE": "73.66822110622846"
+      },
+      "TIME": 1.0,
+      "IMG_URL": "https://lh5.googleusercontent.com/p/AF1QipPogGFM1atIJ-FcuvUbPhDNkpLxgxGACbbI_br_=w408-h271-k-no",
+      "DISTRICT": "Madhe Ghat side",
+      "COST": 0.0
+    },
+    "Raja Dinkar Kelkar Museum": {
+      "TAG": "Tourist attraction",
+      "RATING": "4.3",
+      "REVIEWS": "441",
+      "ADDRESS": "Kurisumala-Thankalpara-Road, Shivajinagar District, Vagamon, Kerala 685503",
+      "COORDINATES": {
+        "LATITUDE": "18.51087878417319",
+        "LONGITUDE": "73.8544306956324"
+      },
+      "TIME": 1.0,
+      "IMG_URL": "https://lh5.googleusercontent.com/p/AF1QipPogGFM1atIJ-FcuvUbPhDNkpLxgxGACbbI_br_=w408-h271-k-no",
+      "DISTRICT": "Pune city",
+      "COST": 0.0
+    }
+    ,
+    "Pataleshwar Cave Temple": {
+      "TAG": "Tourist attraction",
+      "RATING": "4.3",
+      "REVIEWS": "441",
+      "ADDRESS": "Kurisumala-Thankalpara-Road, Shivajinagar District, Vagamon, Kerala 685503",
+      "COORDINATES": {
+        "LATITUDE": "18.526726364111564",
+        "LONGITUDE": "73.85044607843994"
+      },
+      "TIME": 1.0,
+      "IMG_URL": "https://lh5.googleusercontent.com/p/AF1QipPogGFM1atIJ-FcuvUbPhDNkpLxgxGACbbI_br_=w408-h271-k-no",
+      "DISTRICT": "Pune city",
+      "COST": 0.0
+    },
+    "Parvati Hill": {
+      "TAG": "Tourist attraction",
+      "RATING": "4.3",
+      "REVIEWS": "441",
+      "ADDRESS": "Kurisumala-Thankalpara-Road, Shivajinagar District, Vagamon, Kerala 685503",
+      "COORDINATES": {
+        "LATITUDE": "18.495253288223346",
+        "LONGITUDE": "73.84407575597899"
+      },
+      "TIME": 1.0,
+      "IMG_URL": "https://lh5.googleusercontent.com/p/AF1QipPogGFM1atIJ-FcuvUbPhDNkpLxgxGACbbI_br_=w408-h271-k-no",
+      "DISTRICT": "Pune city",
+      "COST": 0.0
+    },
+    "Shreemant Dagdusheth Halwai Ganpati Mandir": {
+      "TAG": "Tourist attraction",
+      "RATING": "4.3",
+      "REVIEWS": "441",
+      "ADDRESS": "Kurisumala-Thankalpara-Road, Shivajinagar District, Vagamon, Kerala 685503",
+      "COORDINATES": {
+        "LATITUDE": "18.51656193714397",
+        "LONGITUDE": "73.8560899802897"
+      },
+      "TIME": 1.0,
+      "IMG_URL": "https://lh5.googleusercontent.com/p/AF1QipPogGFM1atIJ-FcuvUbPhDNkpLxgxGACbbI_br_=w408-h271-k-no",
+      "DISTRICT": "Pune city",
+      "COST": 0.0
+    },
+    "Laal Mahal": {
+      "TAG": "Tourist attraction",
+      "RATING": "4.3",
+      "REVIEWS": "441",
+      "ADDRESS": "Kurisumala-Thankalpara-Road, Shivajinagar District, Vagamon, Kerala 685503",
+      "COORDINATES": {
+        "LATITUDE": "18.518946748346018",
+        "LONGITUDE": "73.85666975330409"
+      },
+      "TIME": 1.0,
+      "IMG_URL": "https://lh5.googleusercontent.com/p/AF1QipPogGFM1atIJ-FcuvUbPhDNkpLxgxGACbbI_br_=w408-h271-k-no",
+      "DISTRICT": "Pune city",
+      "COST": 0.0
+    },
+    "Fergusson College Road": {
+      "TAG": "Tourist attraction",
+      "RATING": "4.3",
+      "REVIEWS": "441",
+      "ADDRESS": "Kurisumala-Thankalpara-Road, Shivajinagar District, Vagamon, Kerala 685503",
+      "COORDINATES": {
+        "LATITUDE": "18.517468109821439",
+        "LONGITUDE": "73.84163915330402"
+      },
+      "TIME": 1.0,
+      "IMG_URL": "https://lh5.googleusercontent.com/p/AF1QipPogGFM1atIJ-FcuvUbPhDNkpLxgxGACbbI_br_=w408-h271-k-no",
+      "DISTRICT": "Pune city",
+      "COST": 0.0
+    },
+    "Vishrambaug Wada": {
+      "TAG": "Tourist attraction",
+      "RATING": "4.3",
+      "REVIEWS": "441",
+      "ADDRESS": "Kurisumala-Thankalpara-Road, Shivajinagar District, Vagamon, Kerala 685503",
+      "COORDINATES": {
+        "LATITUDE": "18.513956265573608",
+        "LONGITUDE": "73.85363378028964"
+      },
+      "TIME": 1.0,
+      "IMG_URL": "https://lh5.googleusercontent.com/p/AF1QipPogGFM1atIJ-FcuvUbPhDNkpLxgxGACbbI_br_=w408-h271-k-no",
+      "DISTRICT": "Pune city",
+      "COST": 0.0
+    },
+    "Vetal Tekdi": {
+      "TAG": "Tourist attraction",
+      "RATING": "4.3",
+      "REVIEWS": "441",
+      "ADDRESS": "Kurisumala-Thankalpara-Road, Shivajinagar District, Vagamon, Kerala 685503",
+      "COORDINATES": {
+        "LATITUDE": "18.5260996936124269",
+        "LONGITUDE": "73.81534151575849"
+      },
+      "TIME": 1.0,
+      "IMG_URL": "https://lh5.googleusercontent.com/p/AF1QipPogGFM1atIJ-FcuvUbPhDNkpLxgxGACbbI_br_=w408-h271-k-no",
+      "DISTRICT": "Pune city",
+      "COST": 0.0
+    },
+    "Laxmi Road": {
+      "TAG": "Tourist attraction",
+      "RATING": "4.3",
+      "REVIEWS": "441",
+      "ADDRESS": "Kurisumala-Thankalpara-Road, Shivajinagar District, Vagamon, Kerala 685503",
+      "COORDINATES": {
+        "LATITUDE": "18.51580045816869",
+        "LONGITUDE": "73.85615182261823"
+      },
+      "TIME": 1.0,
+      "IMG_URL": "https://lh5.googleusercontent.com/p/AF1QipPogGFM1atIJ-FcuvUbPhDNkpLxgxGACbbI_br_=w408-h271-k-no",
+      "DISTRICT": "Pune city",
+      "COST": 0.0
+    },
+    "Joshi's Museum Of Miniature Railways": {
+      "TAG": "Tourist attraction",
+      "RATING": "4.3",
+      "REVIEWS": "441",
+      "ADDRESS": "Kurisumala-Thankalpara-Road, Shivajinagar District, Vagamon, Kerala 685503",
+      "COORDINATES": {
+        "LATITUDE": "18.50177979445589",
+        "LONGITUDE": "73.82235572446784"
+      },
+      "TIME": 1.0,
+      "IMG_URL": "https://lh5.googleusercontent.com/p/AF1QipPogGFM1atIJ-FcuvUbPhDNkpLxgxGACbbI_br_=w408-h271-k-no",
+      "DISTRICT": "Pune city",
+      "COST": 0.0
+    },
+    "Shri Chatushrungi Devi Temple": {
+      "TAG": "Tourist attraction",
+      "RATING": "4.3",
+      "REVIEWS": "441",
+      "ADDRESS": "Kurisumala-Thankalpara-Road, Shivajinagar District, Vagamon, Kerala 685503",
+      "COORDINATES": {
+        "LATITUDE": "18.5391260871449579",
+        "LONGITUDE": "73.82839719563307"
+      },
+      "TIME": 1.0,
+      "IMG_URL": "https://lh5.googleusercontent.com/p/AF1QipPogGFM1atIJ-FcuvUbPhDNkpLxgxGACbbI_br_=w408-h271-k-no",
+      "DISTRICT": "Pune city",
+      "COST": 0.0
+    },
+    "Mahatma Phule Museum": {
+      "TAG": "Tourist attraction",
+      "RATING": "4.3",
+      "REVIEWS": "441",
+      "ADDRESS": "Kurisumala-Thankalpara-Road, Shivajinagar District, Vagamon, Kerala 685503",
+      "COORDINATES": {
+        "LATITUDE": "18.523804334590878",
+        "LONGITUDE": "73.8454238956327"
+      },
+      "TIME": 1.0,
+      "IMG_URL": "https://lh5.googleusercontent.com/p/AF1QipPogGFM1atIJ-FcuvUbPhDNkpLxgxGACbbI_br_=w408-h271-k-no",
+      "DISTRICT": "Pune city",
+      "COST": 0.0
+    },
+    "Mahatma Phule Market": {
+      "TAG": "Tourist attraction",
+      "RATING": "4.3",
+      "REVIEWS": "441",
+      "ADDRESS": "Kurisumala-Thankalpara-Road, Shivajinagar District, Vagamon, Kerala 685503",
+      "COORDINATES": {
+        "LATITUDE": "18.51306023985371",
+        "LONGITUDE": "73.85628709563247"
+      },
+      "TIME": 1.0,
+      "IMG_URL": "https://lh5.googleusercontent.com/p/AF1QipPogGFM1atIJ-FcuvUbPhDNkpLxgxGACbbI_br_=w408-h271-k-no",
+      "DISTRICT": "Pune city",
+      "COST": 0.0
+    },
+    "Saras Ganesh Mandir": {
+      "TAG": "Tourist attraction",
+      "RATING": "4.3",
+      "REVIEWS": "441",
+      "ADDRESS": "Kurisumala-Thankalpara-Road, Shivajinagar District, Vagamon, Kerala 685503",
+      "COORDINATES": {
+        "LATITUDE": "18.501973567148887",
+        "LONGITUDE": "73.85239893796074"
+      },
+      "TIME": 1.0,
+      "IMG_URL": "https://lh5.googleusercontent.com/p/AF1QipPogGFM1atIJ-FcuvUbPhDNkpLxgxGACbbI_br_=w408-h271-k-no",
+      "DISTRICT": "Pune city",
+      "COST": 0.0
+    },
+    "Blades of Glory Cricket Museum": {
+      "TAG": "Tourist attraction",
+      "RATING": "4.3",
+      "REVIEWS": "441",
+      "ADDRESS": "Kurisumala-Thankalpara-Road, Shivajinagar District, Vagamon, Kerala 685503",
+      "COORDINATES": {
+        "LATITUDE": "18.48597586383463",
+        "LONGITUDE": "73.84353138583889"
+      },
+      "TIME": 1.0,
+      "IMG_URL": "https://lh5.googleusercontent.com/p/AF1QipPogGFM1atIJ-FcuvUbPhDNkpLxgxGACbbI_br_=w408-h271-k-no",
+      "DISTRICT": "Pune city",
+      "COST": 0.0
+    },
+    "Shree Kasba Ganapati Mandal": {
+      "TAG": "Tourist attraction",
+      "RATING": "4.3",
+      "REVIEWS": "441",
+      "ADDRESS": "Kurisumala-Thankalpara-Road, Shivajinagar District, Vagamon, Kerala 685503",
+      "COORDINATES": {
+        "LATITUDE": "18.519254374703713",
+        "LONGITUDE": "73.85702742446837"
+      },
+      "TIME": 1.0,
+      "IMG_URL": "https://lh5.googleusercontent.com/p/AF1QipPogGFM1atIJ-FcuvUbPhDNkpLxgxGACbbI_br_=w408-h271-k-no",
+      "DISTRICT": "Pune city",
+      "COST": 0.0
+    },
+    "HongKong Lane": {
+      "TAG": "Tourist attraction",
+      "RATING": "4.3",
+      "REVIEWS": "441",
+      "ADDRESS": "Kurisumala-Thankalpara-Road, Shivajinagar District, Vagamon, Kerala 685503",
+      "COORDINATES": {
+        "LATITUDE": "18.516161072045218",
+        "LONGITUDE": "73.84197520727541"
+      },
+      "TIME": 1.0,
+      "IMG_URL": "https://lh5.googleusercontent.com/p/AF1QipPogGFM1atIJ-FcuvUbPhDNkpLxgxGACbbI_br_=w408-h271-k-no",
+      "DISTRICT": "Pune city",
+      "COST": 0.0
+    },
+    "Dr Babasaheb Ambedkar Museum & Memorial": {
+      "TAG": "Tourist attraction",
+      "RATING": "4.3",
+      "REVIEWS": "441",
+      "ADDRESS": "Kurisumala-Thankalpara-Road, Shivajinagar District, Vagamon, Kerala 685503",
+      "COORDINATES": {
+        "LATITUDE": "18.52443309587934",
+        "LONGITUDE": "73.82997355330417"
+      },
+      "TIME": 1.0,
+      "IMG_URL": "https://lh5.googleusercontent.com/p/AF1QipPogGFM1atIJ-FcuvUbPhDNkpLxgxGACbbI_br_=w408-h271-k-no",
+      "DISTRICT": "Pune city",
+      "COST": 0.0
+    },
+    "Shree Gajanan Maharaj Temple": {
+      "TAG": "Tourist attraction",
+      "RATING": "4.3",
+      "REVIEWS": "441",
+      "ADDRESS": "Kurisumala-Thankalpara-Road, Shivajinagar District, Vagamon, Kerala 685503",
+      "COORDINATES": {
+        "LATITUDE": "18.52325200833939",
+        "LONGITUDE": "73.84661582778547"
+      },
+      "TIME": 1.0,
+      "IMG_URL": "https://lh5.googleusercontent.com/p/AF1QipPogGFM1atIJ-FcuvUbPhDNkpLxgxGACbbI_br_=w408-h271-k-no",
+      "DISTRICT": "Pune city",
+      "COST": 0.0
+    },
+    "Shree Omkareshwar Temple": {
+      "TAG": "Tourist attraction",
+      "RATING": "4.3",
+      "REVIEWS": "441",
+      "ADDRESS": "Kurisumala-Thankalpara-Road, Shivajinagar District, Vagamon, Kerala 685503",
+      "COORDINATES": {
+        "LATITUDE": "18.52008632021671",
+        "LONGITUDE": "73.84893962446833"
+      },
+      "TIME": 1.0,
+      "IMG_URL": "https://lh5.googleusercontent.com/p/AF1QipPogGFM1atIJ-FcuvUbPhDNkpLxgxGACbbI_br_=w408-h271-k-no",
+      "DISTRICT": "Pune city",
+      "COST": 0.0
+    },
+    "Wagheshwar Temple": {
+      "TAG": "Tourist attraction",
+      "RATING": "4.3",
+      "REVIEWS": "441",
+      "ADDRESS": "Kurisumala-Thankalpara-Road, Shivajinagar District, Vagamon, Kerala 685503",
+      "COORDINATES": {
+        "LATITUDE": "18.5257144978503841",
+        "LONGITUDE": "73.85544762334474"
+      },
+      "TIME": 1.0,
+      "IMG_URL": "https://lh5.googleusercontent.com/p/AF1QipPogGFM1atIJ-FcuvUbPhDNkpLxgxGACbbI_br_=w408-h271-k-no",
+      "DISTRICT": "Pune city",
+      "COST": 0.0
+    },
+    "Kamala Nehru Park": {
+      "TAG": "Tourist attraction",
+      "RATING": "4.3",
+      "REVIEWS": "441",
+      "ADDRESS": "Kurisumala-Thankalpara-Road, Shivajinagar District, Vagamon, Kerala 685503",
+      "COORDINATES": {
+        "LATITUDE": "18.517108108690007",
+        "LONGITUDE": "73.8343957784869"
+      },
+      "TIME": 1.0,
+      "IMG_URL": "https://lh5.googleusercontent.com/p/AF1QipPogGFM1atIJ-FcuvUbPhDNkpLxgxGACbbI_br_=w408-h271-k-no",
+      "DISTRICT": "Pune city",
+      "COST": 0.0
+    },
+    "Chatuhshrungi Paytha": {
+      "TAG": "Tourist attraction",
+      "RATING": "4.3",
+      "REVIEWS": "441",
+      "ADDRESS": "Kurisumala-Thankalpara-Road, Shivajinagar District, Vagamon, Kerala 685503",
+      "COORDINATES": {
+        "LATITUDE": "18.53976707943995",
+        "LONGITUDE": "73.82964526679733"
+      },
+      "TIME": 1.0,
+      "IMG_URL": "https://lh5.googleusercontent.com/p/AF1QipPogGFM1atIJ-FcuvUbPhDNkpLxgxGACbbI_br_=w408-h271-k-no",
+      "DISTRICT": "Pune city",
+      "COST": 0.0
+    },
+    "Mastani Mahal": {
+      "TAG": "Tourist attraction",
+      "RATING": "4.3",
+      "REVIEWS": "441",
+      "ADDRESS": "Kurisumala-Thankalpara-Road, Shivajinagar District, Vagamon, Kerala 685503",
+      "COORDINATES": {
+        "LATITUDE": "18.54890116964114",
+        "LONGITUDE": "73.75147821097617"
+      },
+      "TIME": 1.0,
+      "IMG_URL": "https://lh5.googleusercontent.com/p/AF1QipPogGFM1atIJ-FcuvUbPhDNkpLxgxGACbbI_br_=w408-h271-k-no",
+      "DISTRICT": "Pune city",
+      "COST": 0.0
+    },
+    "Jogger's Park ": {
+      "TAG": "Tourist attraction",
+      "RATING": "4.3",
+      "REVIEWS": "441",
+      "ADDRESS": "Kurisumala-Thankalpara-Road, Shivajinagar District, Vagamon, Kerala 685503",
+      "COORDINATES": {
+        "LATITUDE": "18.505717841214086",
+        "LONGITUDE": " 73.84607305194346"
+      },
+      "TIME": 1.0,
+      "IMG_URL": "https://lh5.googleusercontent.com/p/AF1QipPogGFM1atIJ-FcuvUbPhDNkpLxgxGACbbI_br_=w408-h271-k-no",
+      "DISTRICT": "Pune city",
+      "COST": 0.0
+    },
+    "Shree Trishunda Ganpati Mandir": {
+      "TAG": "Tourist attraction",
+      "RATING": "4.3",
+      "REVIEWS": "441",
+      "ADDRESS": "Kurisumala-Thankalpara-Road, Shivajinagar District, Vagamon, Kerala 685503",
+      "COORDINATES": {
+        "LATITUDE": "18.521905164183064",
+        "LONGITUDE": "73.86177602261839"
+      },
+      "TIME": 1.0,
+      "IMG_URL": "https://lh5.googleusercontent.com/p/AF1QipPogGFM1atIJ-FcuvUbPhDNkpLxgxGACbbI_br_=w408-h271-k-no",
+      "DISTRICT": "Pune city",
+      "COST": 0.0
+    },
+    "Bagul Udyan": {
+      "TAG": "Tourist attraction",
+      "RATING": "4.3",
+      "REVIEWS": "441",
+      "ADDRESS": "Kurisumala-Thankalpara-Road, Shivajinagar District, Vagamon, Kerala 685503",
+      "COORDINATES": {
+        "LATITUDE": "18.491214831447206",
+        "LONGITUDE": "73.85088526679615"
+      },
+      "TIME": 1.0,
+      "IMG_URL": "https://lh5.googleusercontent.com/p/AF1QipPogGFM1atIJ-FcuvUbPhDNkpLxgxGACbbI_br_=w408-h271-k-no",
+      "DISTRICT": "Pune city",
+      "COST": 0.0
+    },
+    "Peacock Bay": {
+      "TAG": "Tourist attraction",
+      "RATING": "4.3",
+      "REVIEWS": "441",
+      "ADDRESS": "Kurisumala-Thankalpara-Road, Shivajinagar District, Vagamon, Kerala 685503",
+      "COORDINATES": {
+        "LATITUDE": "18.437870150119533",
+        "LONGITUDE": "73.75053324453339"
+      },
+      "TIME": 1.0,
+      "IMG_URL": "https://lh5.googleusercontent.com/p/AF1QipPogGFM1atIJ-FcuvUbPhDNkpLxgxGACbbI_br_=w408-h271-k-no",
+      "DISTRICT": "Pune city",
+      "COST": 0.0
+    },
+    "Lokmanya Tilak Museum": {
+      "TAG": "Tourist attraction",
+      "RATING": "4.3",
+      "REVIEWS": "441",
+      "ADDRESS": "Kurisumala-Thankalpara-Road, Shivajinagar District, Vagamon, Kerala 685503",
+      "COORDINATES": {
+        "LATITUDE": "18.51586666420882",
+        "LONGITUDE": "73.84889839563255"
+      },
+      "TIME": 1.0,
+      "IMG_URL": "https://lh5.googleusercontent.com/p/AF1QipPogGFM1atIJ-FcuvUbPhDNkpLxgxGACbbI_br_=w408-h271-k-no",
+      "DISTRICT": "Pune city",
+      "COST": 0.0
+    },
+    "Darpan Art Gallery": {
+      "TAG": "Tourist attraction",
+      "RATING": "4.3",
+      "REVIEWS": "441",
+      "ADDRESS": "Kurisumala-Thankalpara-Road, Shivajinagar District, Vagamon, Kerala 685503",
+      "COORDINATES": {
+        "LATITUDE": "18.523877942475682",
+        "LONGITUDE": "73.82573773796128"
+      },
+      "TIME": 1.0,
+      "IMG_URL": "https://lh5.googleusercontent.com/p/AF1QipPogGFM1atIJ-FcuvUbPhDNkpLxgxGACbbI_br_=w408-h271-k-no",
+      "DISTRICT": "Pune city",
+      "COST": 0.0
+    },
+    "Yashwantrao Chavan Garden": {
+      "TAG": "Tourist attraction",
+      "RATING": "4.3",
+      "REVIEWS": "441",
+      "ADDRESS": "Kurisumala-Thankalpara-Road, Shivajinagar District, Vagamon, Kerala 685503",
+      "COORDINATES": {
+        "LATITUDE": "18.493153203513256",
+        "LONGITUDE": "73.85378602446768"
+      },
+      "TIME": 1.0,
+      "IMG_URL": "https://lh5.googleusercontent.com/p/AF1QipPogGFM1atIJ-FcuvUbPhDNkpLxgxGACbbI_br_=w408-h271-k-no",
+      "DISTRICT": "Pune city",
+      "COST": 0.0
+    }
+  }
+  
