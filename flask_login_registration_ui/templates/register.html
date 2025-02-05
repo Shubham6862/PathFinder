@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Register</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h2>Register</h2>
+        <form action="{{ url_for('register') }}" method="POST">
+            <input type="text" name="username" placeholder="Username" required>
+            <input type="email" name="email" placeholder="Email" required>
+            <input type="password" name="password" placeholder="Password" required>
+            <h3>Travel Preferences</h3>
+            <label><input type="checkbox" name="historical_places" value="yes"> Enjoy historical places?</label>
+            <label><input type="checkbox" name="museums" value="yes"> Like museums & galleries?</label>
+            <label><input type="checkbox" name="modern_attractions" value="yes"> Prefer modern attractions?</label>
+            <label><input type="checkbox" name="nightlife" value="yes"> Interested in nightlife?</label>
+            <label><input type="checkbox" name="nature" value="yes"> Love nature spots?</label>
+            <label><input type="checkbox" name="adventure" value="yes"> Like adventure activities?</label>
+            <label><input type="checkbox" name="relaxation" value="yes"> Prefer relaxation spots?</label>
+            <label><input type="checkbox" name="wellness" value="yes"> Interested in wellness activities?</label>
+            <label><input type="checkbox" name="local_experiences" value="yes"> Enjoy local experiences?</label>
+            <label><input type="checkbox" name="cultural_events" value="yes"> Like cultural events?</label>
+            <button type="submit">Register</button>
+        </form>
+        <a href="{{ url_for('home') }}">Login</a>
+    </div>
+</body>
+</html>
